@@ -4,14 +4,14 @@ A beautiful and functional **Task Management Application** with real-time synchr
 
 ## Features
 
-- ✅ **User Authentication** (Email/Password signup & login via Firebase)
-- ✅ **Create, Read, Update & Delete** tasks
-- ✅ **Drag & Drop** reordering of tasks (`@hello-pangea/dnd`)
-- ✅ **Real-time updates** using Firebase Firestore listeners
-- ✅ **Delete All Tasks** functionality
-- ✅ **Protected Routes** (Dashboard only accessible after login)
-- ✅ Fully responsive design with Tailwind CSS
-- ✅ Clean component structure with Context API for state management
+-  **User Authentication** (Email/Password signup & login via Firebase)
+-  **Create, Read, Update & Delete** tasks
+-  **Drag & Drop** reordering of tasks (`@hello-pangea/dnd`)
+-  **Real-time updates** using Firebase Firestore listeners
+-  **Delete All Tasks** functionality
+-  **Protected Routes** (Dashboard only accessible after login)
+-  Fully responsive design with Tailwind CSS
+-  Clean component structure with Context API for state management
 
 ## Tech Stack
 
